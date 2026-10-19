@@ -47,6 +47,16 @@ Ao comparar os métodos:
 - 43 municípios foram identificados por pelo menos 2 métodos
 - 10 municípios foram identificados pelos 3 métodos
 
+  ## Visualizações
+
+### Distribuição da taxa de abstenção
+
+![Dispersão da taxa de abstenção](outputs/grafico_dispersao_abstencao.png)
+
+### Municípios identificados pelos 3 métodos
+
+![Municípios identificados pelos 3 métodos](outputs/grafico_consenso_3_metodos.png)
+
 ## Observação
 
 Um município classificado como outlier ou anomalia não representa, por si só, qualquer irregularidade.
